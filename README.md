@@ -10,8 +10,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/aeshashah25/web-dashboard.git
+cd web-dashboard
 Install dependencies: For Node.js (assuming you're using Express or another backend framework):
 
 bash
@@ -24,6 +24,10 @@ Copy code
 npm start
 The server will typically run on http://localhost:3000.
 
+for bckend:
+cd backend(in other terminal)
+node server.js
+show on 5000/api/organization
 Open the application in the browser: Go to http://localhost:3000 to view the web-based dashboard.
 
 2. Description of Implemented Features:
